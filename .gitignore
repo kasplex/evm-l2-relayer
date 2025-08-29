@@ -1,0 +1,5 @@
+dist/
+.vscode
+.idea/
+data/
+.DS_Store

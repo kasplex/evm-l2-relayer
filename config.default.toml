@@ -1,0 +1,10 @@
+[Log]
+Level = "info"
+Outputs = ["stdout"]
+
+[Relayer]
+EthRPC = "http://127.0.0.1:8545"
+KasRPC = "10.0.1.197:16210"
+Port = 8080
+PrivateKey = ""
+ToAddress = "kaspatest:qrheh44dm6gckcqux4tefmsf55slqaj7u2qseclcp94696ha0da3skr8tlhdd"
